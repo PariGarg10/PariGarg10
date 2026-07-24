@@ -5,9 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=PariGarg10&label=Profile%20views&color=0e75b6&style=flat" alt="PariGarg10" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PariGarg10" alt="PariGarg10" /></a>
-</p>
+
 
 - 🔭 I'm currently working on **Meridian: Automated Data Scientist**
 - 🌱 I'm currently learning **how the world of AI works and what all we can automate — into automating and perfecting every human tech thing possible**
@@ -75,26 +73,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
+  <a href="https://www.linkedin.com/in/pari10garg/" target="_blank"> 
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PariGarg10&show_icons=true&locale=en&layout=compact" alt="PariGarg10" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PariGarg10&show_icons=true&locale=en" alt="PariGarg10" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PariGarg10&" alt="PariGarg10" />
-</p>
 
 <h3 align="center">🕹️ Contribution Graph</h3>
 
